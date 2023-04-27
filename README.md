@@ -1,0 +1,1 @@
+# promase-class
